@@ -17,13 +17,10 @@ This project integrates five major U.S. government data sources to create a comp
 - `Border_Food_Security_CA.csv` - California data
 - `Border_Counties_Only.csv` - Border counties only
 
+> **Note (updated 2025-12-03):** Updated versions of some data files were uploaded today to reflect the latest cleaning and aggregation steps used in the visualizations.
+
 ## Border Counties Definition
 21 U.S. counties that directly border Mexico across Texas (13), New Mexico (3), Arizona (4), and California (1).
 
 ## Team
 Team 15: Manav Diler & Paige Wagner
-```
-
-2. **Update your RMD** with the correct link:
-```
-   [Team15_Border_Food_Security_GitHub](https://github.com/NewtoGit-HUB1/Border_Food_Security)
